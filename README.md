@@ -1,9 +1,5 @@
-<div align="center">
-  <img src="https://github.com/ultralytics/assets/raw/main/yolov8/banner-yolov8.png" width="100%" alt="YOLOv5 Banner">
-
-  # YOLOv5-RealSense
+# YOLOv5-RealSense
   Object detection with distance estimation using YOLOv5 and Intel RealSense Depth Cameras.
-</div>
 
 ## Overview
 
